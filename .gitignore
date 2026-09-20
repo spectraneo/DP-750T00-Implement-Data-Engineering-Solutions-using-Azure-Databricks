@@ -1,1 +1,3 @@
-.playwright-cli
+.terraform/
+*.tfstate
+*.tfstate.*
